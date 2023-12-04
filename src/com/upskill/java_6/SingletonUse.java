@@ -6,8 +6,10 @@ public class SingletonUse {
 	Singleton obj = Singleton.getInstance();
 	obj.demo();
 		
-		
+	//this changes to check on git2 devAdnan
 		
 	}
 
+	
+	
 }

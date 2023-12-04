@@ -22,6 +22,8 @@ public class Inheritance extends MethodType{
 		
 		
 		
+		
+		
 
 	
 
