@@ -23,6 +23,8 @@ public class Singleton {
 			
 			System.out.println("Demo method for singleton class");
 			
+			//this changes to check on git devAdnan
+			
 		}
 		
 		
